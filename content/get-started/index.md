@@ -1,13 +1,10 @@
 ---
-title: Get started with GitHub documentation
-shortTitle: Get started
-intro: 'Learn how to start building, shipping, and maintaining software with {% data variables.product.prodname_dotcom %}. Explore our products, sign up for an account, and connect with the world''s largest development community.'
-redirect_from:
-  - /categories/54/articles
-  - /categories/bootcamp
-  - /categories/32/articles
+<GitHub>
+<coding></coding>
+ {% im am a coding%}
+
+  -
   - /categories/2/articles
-  - /categories/organizations
   - /categories/about-github
   - /categories/53/articles
   - /categories/setup
